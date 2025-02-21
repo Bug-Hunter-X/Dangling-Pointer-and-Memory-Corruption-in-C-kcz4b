@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error: attempting to free memory allocated on the stack.  The `bug.c` file contains the erroneous code. The `bugSolution.c` file offers a corrected version.  This is a crucial concept in C memory management, and understanding it helps prevent crashes and undefined behavior.
