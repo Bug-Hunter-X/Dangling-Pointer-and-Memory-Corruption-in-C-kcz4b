@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; *ptr = 20; // No free(ptr); // Correct: no need to free stack memory. return 0; }
